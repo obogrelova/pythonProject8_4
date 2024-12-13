@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 quantity = 5
 
 random_array_first = np.random.rand(quantity)
